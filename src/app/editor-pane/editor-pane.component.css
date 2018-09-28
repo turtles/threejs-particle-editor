@@ -1,0 +1,12 @@
+.editor-pane {
+  width: 30%;
+  min-witdh: 160px;
+  height: 100vh;
+  float: left;
+
+  background: black;
+}
+
+p {
+  color: white;
+}
